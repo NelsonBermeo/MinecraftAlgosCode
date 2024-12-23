@@ -1,4 +1,4 @@
-#Minecraft Algos
+# Minecraft Algos
 
 Welcome to Minecraft Algos a simple minecraft world and repo I made to help you learn about Data Structures and Algorithms and their applications with hands on activites.
 
