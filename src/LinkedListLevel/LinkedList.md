@@ -13,7 +13,7 @@ are the data the node holds, and a pointer to the next node in the list. Here is
 
 Here is a visualization of the nodes: 
 
-![LLNodes](LinkedListNodesImage.png)
+![LLNodes](LinkedListNodeImage.png)
 
 In this level you'll learn about why a Linked List is advantagous at times, a implementation from scratch of a LL, an example 
 of where Linked Lists are used in real life, problems and solutions to Linked List related Leetcode problems and different
