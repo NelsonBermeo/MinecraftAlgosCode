@@ -1,18 +1,7 @@
-## Getting Started
+Welcome to Minecraft Algos a simple minecraft world and repo I made to help you learn about Data Structures and Algorithms and their applications with hands on activites.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+You can download the world here:
 
-## Folder Structure
+When you spawn in you are greeted and there are rooms you can unlock and items you can find to keep on traversing through the dungeons. Levels can be traversed in any order and each is a data structure or algorithm. There will be signs telling you where on the repo to read, signs will also tell you to implement code yourself and look at solutions on the repo, signs will also point you to the repo to look at the algorithm or data structure implementation, signs will point you to leet code problems, signs will point you to videos I've made, signs will point you to projects you can complete and answers in the repo.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+I have designed this project to refresh my memory about java data structures and algorithms because I'll be a course assistant in the spring for a CS 284 Data Structures and Algorithms. I found it fun making this game to teach others. Please have fun and never stop learning!
