@@ -9,7 +9,7 @@ A Linked List on the other hand instead of continous memory its data is stored a
 node based data structure. You can think of a node in the case of a Linked List as a class with 2 attributes. These two attributes 
 are the data the node holds, and a pointer to the next node in the list. Here is a visualization the memory:
 
-<img src="/LinkedListImages/LinkedListMemory.png" alt="LLMemory" width="300" height="300">
+<img src="./LinkedListImages/LinkedListMemory.png" alt="LLMemory" width="300" height="300">
 
 Here is a visualization of the nodes: 
 
